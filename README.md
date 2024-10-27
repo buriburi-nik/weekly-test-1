@@ -1,4 +1,4 @@
-# Project Name
+# Test 1
 
 This repository contains code for the Weekly Test Part-1 assignment.
 
